@@ -58,14 +58,14 @@ Soy un apasionado por cerrar la brecha entre el mundo físico y el digital. Mi e
 
 ### 🏗️ Proyectos Destacados
 
-#### 🤖 [Grúa Torre Robótica Inteligente](https://github.com/FrancoGomez-98/TU-REPO-AQUI)
+#### 🤖 [Grúa Torre Robótica Inteligente](https://github.com/ValentinColuccio/Almacenamiento-con-Grua-Torre-Coluccio-Gomez)
 *Proyecto Final de Grado*
 Un sistema autónomo complejo con arquitectura distribuida.
 - **Cerebro:** PC (IA/Visión) + Raspberry Pi (Lógica/Cinemática) + ESP32 (Motores).
 - **Tech:** TensorFlow Lite para detección de objetos, Sockets TCP/IP, Cinemática Inversa.
 - **Highlights:** Control por voz y clasificación automática de carga en tiempo real.
 
-#### 🦾 [Restauración & Automatización SCORBOT EX IX](https://github.com/FrancoGomez-98/TU-REPO-AQUI)
+#### 🦾 [Restauración & Automatización SCORBOT EX IX](https://github.com/FrancoGomez-98/INGENIERIA-MECATRONICA-UNLZ---PPS)
 *Práctica Profesional Supervisada (PPS)*
 Puesta a punto de un brazo robótico industrial en el Laboratorio CIM (UNLZ).
 - **Logros:** Programación en lenguaje **ACL**, integración de I/O con tablero central y redacción de manuales técnicos operativos.
