@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Email-Contáctame-red?style=flat-square&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/gomez-franco">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Contáctame-blue?style=flat-square&logo=linkedin">
   </a>
 </p>
 
