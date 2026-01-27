@@ -48,10 +48,8 @@ Soy un apasionado por cerrar la brecha entre el mundo físico y el digital. Mi e
 
 **Herramientas & Diseño**
 <p>
-  <img src="https://img.shields.io/badge/SolidWorks-CAD-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AutoCAD-Design-red?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/SolidWorks-Fusion 360-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AutoCAD-Git-red?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
 
 ---
