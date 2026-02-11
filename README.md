@@ -70,15 +70,6 @@ Puesta a punto de un brazo robótico industrial en el Laboratorio CIM (UNLZ).
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrancoGomez-98&show_icons=true&theme=radical&hide_border=true" alt="Franco's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoGomez-98&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
 <p align="center">
   <i>"La ingeniería es el arte de modelar materiales que no entendemos completamente, en formas que no podemos analizar con precisión, para resistir fuerzas que no podemos evaluar correctamente, de tal manera que el público no tenga razón para sospechar el alcance de nuestra ignorancia."</i>
 </p>
